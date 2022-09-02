@@ -1,0 +1,121 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    #image {
+      margin-top: 12vh;
+    }
+    #grid {
+      min-width: 108%;
+      margin-top: -10%;
+    }
+    #foregtpasswordpaper {
+      margin-top: 8%;
+      margin-left: -30%;
+      min-width: 120%;
+      padding-bottom: 10%;
+    }
+    #chnagepassword {
+      padding-left: 30%;
+    }
+    #resetPassword {
+      padding-left: 80%;
+      min-width: 50%;
+      margin-top: -10%;
+    }
+    #btnsaveCancel {
+      margin-top: 5%;
+      min-width: 100%;
+    }
+    #btnCancel {
+      margin-top: 5%;
+      min-width: 100%;
+    }
+  }
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 768px) {
+    .image1 {
+      margin-top: 12vh;
+    }
+    #foregtpasswordpaper {
+      margin-top: 15%;
+      margin-left: -20%;
+    }
+    #grid {
+      margin-top: 12vh;
+    }
+    #chnagepassword {
+      margin-left: -50%;
+    }
+    #chnagepassword {
+      padding-left: 80%;
+    }
+    #btnsaveCancel {
+      min-width: 100%;
+    }
+    #btnCancel {
+      margin-top: 5%;
+      min-width: 100%;
+    }
+  }
+  
+  @media only screen and (min-width: 992px) {
+    #chnagepassword {
+      padding-left: 50%;
+    }
+    #btnsaveCancel {
+      min-width: 100%;
+    }
+    #btnCancel {
+      margin-top: 5%;
+      min-width: 100%;
+    }
+  }
+  @media only screen and (min-width: 1440px) {
+    #chnagepassword {
+      padding-left: 10%;
+    }
+    #btnsaveCancel {
+      min-width: 100%;
+    }
+    #btnCancel {
+      margin-top: 5%;
+      min-width: 100%;
+    }
+  }
+  
+  
+  
+  /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 600px){
+  
+    #image{
+        margin-top:12vh;
+                    
+    }
+  
+   
+  
+  }
+    /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 750px) {
+  
+    .image1{
+      margin-top:12vh;
+    }
+  
+    #grid{
+      margin-top:12vh;
+    }
+    
+    
+  }
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
